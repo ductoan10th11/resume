@@ -2,11 +2,11 @@
 
 **Information Technology Student**
 
--   **Name:** Hoang Duc Toan\
--   **Birth:** 10/11/2005\
--   **Phone:** +84 338099684\
--   **Email:** hdtoan.dev@gmail.com\
--   **Address:** Thai Nguyen, Viet Nam\
+-   **Name:** Hoang Duc Toan
+-   **Birth:** 10/11/2005
+-   **Phone:** +84 338099684
+-   **Email:** hdtoan.dev@gmail.com
+-   **Address:** Thai Nguyen, Viet Nam
 -   **GitHub:** https://github.com/ductoan10th11
 
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ environment.
 **Information & Communication Technology University (ICTU)**\
 *08/2023 -- Present*
 
--   **Major:** Information Technology\
+-   **Major:** Information Technology
 -   **GPA:** 3.74 / 4.0
 
 **Honors & Achievements** - Academic Scholarships: Excellent (Semester
