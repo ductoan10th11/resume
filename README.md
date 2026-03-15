@@ -10,8 +10,6 @@
 
 # Overview
 
-Information Technology student with hands-on experience developing web applications, APIs, authentication systems, and API integrations using JavaScript technologies.
-
 Information Technology student at Information and Communication Technology University (ICTU) with hands-on experience
 developing full-stack personal web applications using JavaScript technologies. A fast learner who can quickly adapt to and
 apply new technologies in practical projects. Seeking an opportunity to gain hands-on experience, improve technical skills,
